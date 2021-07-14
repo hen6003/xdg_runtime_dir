@@ -1,5 +1,5 @@
 # xdg_runtime_dir
-Generate XDG_RUNTIME_DIR
+generates XDG_RUNTIME_DIR for users at `/run/user/<UID>`
 
 ## install
 ```
